@@ -1,3 +1,5 @@
+> Fixed fork of rn-test-exception-handler
+> Fixed building for new RN versions on Android
 
 # rn-test-exception-handler
 
